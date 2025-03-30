@@ -260,13 +260,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-32",
-					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 431.0, 426.0, 50.0, 35.0 ],
-					"text" : "0.012803",
+					"patching_rect" : [ 431.0, 426.0, 50.0, 22.0 ],
+					"text" : "0.",
 					"textcolor" : [ 0.0, 0.984313725490196, 0.231372549019608, 1.0 ]
 				}
 
@@ -20136,7 +20135,7 @@
 							"web-export" : 							{
 								"json-web-export" : 								{
 									"copy_dependencies" : 0,
-									"file_name" : "d00_c01_v2.1",
+									"file_name" : "sky-sounds-se-card-III",
 									"classname" : "rnbomatic",
 									"postexportcommand" : null,
 									"polyphony" : "disabled",
@@ -20281,11 +20280,11 @@
 							}
 ,
 							"inputZ" : 							{
-								"value" : -13.725490196078482
+								"value" : 0.0
 							}
 ,
 							"inputY" : 							{
-								"value" : 7.843137254901862
+								"value" : 0.0
 							}
 ,
 							"__presetid" : "sound-engine-card-III",
@@ -20294,7 +20293,7 @@
 							}
 ,
 							"inputX" : 							{
-								"value" : 0.725490196078431
+								"value" : 1.0
 							}
 
 						}
@@ -20363,11 +20362,11 @@
 										}
 ,
 										"inputZ" : 										{
-											"value" : -13.725490196078482
+											"value" : 0.0
 										}
 ,
 										"inputY" : 										{
-											"value" : 7.843137254901862
+											"value" : 0.0
 										}
 ,
 										"__presetid" : "sound-engine-card-III",
@@ -20376,7 +20375,7 @@
 										}
 ,
 										"inputX" : 										{
-											"value" : 0.725490196078431
+											"value" : 1.0
 										}
 
 									}

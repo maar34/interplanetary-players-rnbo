@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 2034.0, -904.0, 1284.0, 1056.0 ],
+		"rect" : [ 3708.0, -963.0, 1284.0, 1056.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -265,7 +265,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 433.0, 426.0, 50.0, 22.0 ],
-					"text" : "0.007",
+					"text" : "0.",
 					"textcolor" : [ 0.0, 0.984313725490196, 0.231372549019608, 1.0 ]
 				}
 
@@ -803,7 +803,7 @@
 						}
 ,
 						"classnamespace" : "rnbo",
-						"rect" : [ 2328.0, -566.0, 1520.0, 959.0 ],
+						"rect" : [ 3635.0, -844.0, 1520.0, 959.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -888,7 +888,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 914.0, 63.0, 132.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 9,
+													"rnbo_serial" : 1,
 													"rnbo_uniqueid" : "scale_obj-37",
 													"text" : "scale -100. 100. 0. 255."
 												}
@@ -903,7 +903,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 759.0, 63.0, 132.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 7,
+													"rnbo_serial" : 2,
 													"rnbo_uniqueid" : "scale_obj-16",
 													"text" : "scale -100. 100. 0. 255."
 												}
@@ -918,7 +918,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 1229.0, 56.0, 104.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 8,
+													"rnbo_serial" : 3,
 													"rnbo_uniqueid" : "scale_obj-24",
 													"text" : "scale -1. 3. 0. 255."
 												}
@@ -1112,7 +1112,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 872.0, 443.0, 104.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 1,
+													"rnbo_serial" : 4,
 													"rnbo_uniqueid" : "scale_obj-134",
 													"text" : "scale 127. 255. 0. 100."
 												}
@@ -1128,7 +1128,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 994.5, 416.0, 100.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 2,
+													"rnbo_serial" : 5,
 													"rnbo_uniqueid" : "scale_obj-135",
 													"text" : "scale 127. 255. 0. 100."
 												}
@@ -1144,7 +1144,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 1164.5, 407.5, 104.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 3,
+													"rnbo_serial" : 6,
 													"rnbo_uniqueid" : "scale_obj-136",
 													"text" : "scale 127. 255. 0. 100."
 												}
@@ -1160,7 +1160,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 791.0, 360.0, 100.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 4,
+													"rnbo_serial" : 7,
 													"rnbo_uniqueid" : "scale_obj-137",
 													"text" : "scale 0. 127. 100. 0. 2."
 												}
@@ -1176,7 +1176,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 913.5, 360.0, 100.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 5,
+													"rnbo_serial" : 8,
 													"rnbo_uniqueid" : "scale_obj-83",
 													"text" : "scale 0. 127. 100. 0."
 												}
@@ -1191,7 +1191,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 1083.5, 353.0, 107.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 6,
+													"rnbo_serial" : 9,
 													"rnbo_uniqueid" : "scale_obj-138",
 													"text" : "scale 0. 127. 66. 0."
 												}
@@ -51876,7 +51876,7 @@
 										"samplerate" : 0.0
 									}
 ,
-									"rnbo_serial" : 2,
+									"rnbo_serial" : 1,
 									"rnbo_uniqueid" : "buffer~_obj-2",
 									"rnboinfo" : 									{
 										"needsInstanceInfo" : 1,
@@ -57410,7 +57410,7 @@
 							"web-export" : 							{
 								"json-web-export" : 								{
 									"copy_dependencies" : 0,
-									"file_name" : "d00_c01_v2.1",
+									"file_name" : "sky-sounds-se-card-VII",
 									"classname" : "rnbomatic",
 									"postexportcommand" : null,
 									"polyphony" : "disabled",
@@ -57437,18 +57437,6 @@
 							"parsestring" : ""
 						}
 ,
-						"inputGain" : 						{
-							"label" : "inputGain",
-							"isEnum" : 0,
-							"parsestring" : ""
-						}
-,
-						"inputX" : 						{
-							"label" : "inputX",
-							"isEnum" : 0,
-							"parsestring" : ""
-						}
-,
 						"sampler/playMin" : 						{
 							"label" : "playMin",
 							"isEnum" : 0,
@@ -57457,6 +57445,18 @@
 ,
 						"sampler/playMax" : 						{
 							"label" : "playMax",
+							"isEnum" : 0,
+							"parsestring" : ""
+						}
+,
+						"inputGain" : 						{
+							"label" : "inputGain",
+							"isEnum" : 0,
+							"parsestring" : ""
+						}
+,
+						"inputX" : 						{
+							"label" : "inputX",
 							"isEnum" : 0,
 							"parsestring" : ""
 						}
@@ -57622,11 +57622,11 @@
 							}
 ,
 							"inputZ" : 							{
-								"value" : -0.000000000000071
+								"value" : 0.0
 							}
 ,
 							"inputY" : 							{
-								"value" : -9.803921568627544
+								"value" : 0.0
 							}
 ,
 							"__presetid" : "sound-engine-card-VII",
@@ -57635,7 +57635,7 @@
 							}
 ,
 							"inputX" : 							{
-								"value" : 0.764705882352946
+								"value" : 1.0
 							}
 
 						}
@@ -57783,11 +57783,11 @@
 										}
 ,
 										"inputZ" : 										{
-											"value" : -0.000000000000071
+											"value" : 0.0
 										}
 ,
 										"inputY" : 										{
-											"value" : -9.803921568627544
+											"value" : 0.0
 										}
 ,
 										"__presetid" : "sound-engine-card-VII",
@@ -57796,7 +57796,7 @@
 										}
 ,
 										"inputX" : 										{
-											"value" : 0.764705882352946
+											"value" : 1.0
 										}
 
 									}
@@ -58283,6 +58283,12 @@
 		}
 ,
 		"dependency_cache" : [ 			{
+				"name" : "brushes.aif",
+				"bootpath" : "C74:/media/msp",
+				"type" : "AIFF",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "card_I_20250329_33.maxsnap",
 				"bootpath" : "~/Documents/Max 8/Snapshots/clean",
 				"patcherrelativepath" : "../../../../Max 8/Snapshots/clean",
@@ -58301,12 +58307,6 @@
 				"bootpath" : "~/Documents/Max 8/Snapshots/clean",
 				"patcherrelativepath" : "../../../../Max 8/Snapshots/clean",
 				"type" : "mx@s",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "jongly.aif",
-				"bootpath" : "C74:/media/msp",
-				"type" : "AIFF",
 				"implicit" : 1
 			}
 , 			{

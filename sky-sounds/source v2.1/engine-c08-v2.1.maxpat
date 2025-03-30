@@ -803,7 +803,7 @@
 						}
 ,
 						"classnamespace" : "rnbo",
-						"rect" : [ 1954.0, -993.0, 1852.0, 2039.0 ],
+						"rect" : [ 3742.0, -534.0, 1318.0, 810.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -848,7 +848,7 @@
 										"samplerate" : 0.0
 									}
 ,
-									"rnbo_serial" : 3,
+									"rnbo_serial" : 1,
 									"rnbo_uniqueid" : "buffer~_obj-2",
 									"rnboinfo" : 									{
 										"needsInstanceInfo" : 1,
@@ -1190,7 +1190,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 883.0, 40.0, 132.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 4,
+													"rnbo_serial" : 1,
 													"rnbo_uniqueid" : "scale_obj-30",
 													"text" : "scale -100. 100. 0. 255."
 												}
@@ -8058,7 +8058,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 1014.0, 637.0, 134.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 1,
+													"rnbo_serial" : 2,
 													"rnbo_uniqueid" : "scale_obj-22",
 													"text" : "scale 0. 100. 0.01 1.6 1."
 												}
@@ -16133,7 +16133,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 963.5, 367.5, 104.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 2,
+													"rnbo_serial" : 3,
 													"rnbo_uniqueid" : "scale_obj-136",
 													"text" : "scale 127. 255. 0. 100."
 												}
@@ -16148,7 +16148,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 882.5, 313.0, 114.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 3,
+													"rnbo_serial" : 4,
 													"rnbo_uniqueid" : "scale_obj-138",
 													"text" : "scale 0. 127. 100. 0."
 												}
@@ -16196,7 +16196,7 @@
 														"comment" : ""
 													}
 ,
-													"rnbo_serial" : 2,
+													"rnbo_serial" : 1,
 													"rnbo_uniqueid" : "in_obj-119",
 													"rnboinfo" : 													{
 														"needsInstanceInfo" : 1,
@@ -17499,7 +17499,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 913.5, 68.0, 132.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 10,
+													"rnbo_serial" : 1,
 													"rnbo_uniqueid" : "scale_obj-30",
 													"text" : "scale -100. 100. 0. 255."
 												}
@@ -17514,7 +17514,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 791.0, 80.0, 104.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 9,
+													"rnbo_serial" : 2,
 													"rnbo_uniqueid" : "scale_obj-10",
 													"text" : "scale -1. 3. 0. 255."
 												}
@@ -17529,7 +17529,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 366.0, 324.0, 134.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 1,
+													"rnbo_serial" : 3,
 													"rnbo_uniqueid" : "scale_obj-45",
 													"text" : "scale 0. 100. 0. 1000. 2."
 												}
@@ -17627,7 +17627,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 526.0, 474.0, 113.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 2,
+													"rnbo_serial" : 4,
 													"rnbo_uniqueid" : "scale_obj-18",
 													"text" : "scale 0. 100. 0. 1. 1."
 												}
@@ -17841,7 +17841,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 306.0, 294.0, 143.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 3,
+													"rnbo_serial" : 5,
 													"rnbo_uniqueid" : "scale_obj-20",
 													"text" : "scale 0. -100. 0. -1000. 2."
 												}
@@ -18277,7 +18277,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 526.0, 654.0, 113.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 4,
+													"rnbo_serial" : 6,
 													"rnbo_uniqueid" : "scale_obj-107",
 													"text" : "scale 0. 100. 0. 1. 1."
 												}
@@ -18699,7 +18699,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 872.0, 443.0, 104.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 5,
+													"rnbo_serial" : 7,
 													"rnbo_uniqueid" : "scale_obj-134",
 													"text" : "scale 127. 255. 0. 100."
 												}
@@ -18715,7 +18715,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 994.5, 416.0, 100.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 6,
+													"rnbo_serial" : 8,
 													"rnbo_uniqueid" : "scale_obj-135",
 													"text" : "scale 127. 255. 0. 100."
 												}
@@ -18730,7 +18730,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 791.0, 295.0, 131.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 7,
+													"rnbo_serial" : 9,
 													"rnbo_uniqueid" : "scale_obj-137",
 													"text" : "scale 0. 127. -100. 0. 2."
 												}
@@ -18746,7 +18746,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 913.5, 360.0, 100.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 8,
+													"rnbo_serial" : 10,
 													"rnbo_uniqueid" : "scale_obj-83",
 													"text" : "scale 0. 127. 100. 0."
 												}
@@ -26152,7 +26152,7 @@
 							"web-export" : 							{
 								"json-web-export" : 								{
 									"copy_dependencies" : 0,
-									"file_name" : "d00_c01_v2.1",
+									"file_name" : "sky-sounds-se-card-VIII",
 									"classname" : "rnbomatic",
 									"postexportcommand" : null,
 									"polyphony" : "disabled",
@@ -26305,7 +26305,7 @@
 ,
 							"__presetid" : "sound-engine-card-VIII",
 							"inputGain" : 							{
-								"value" : 0.512643678160919
+								"value" : 0.498850574712644
 							}
 ,
 							"inputX" : 							{
@@ -26398,7 +26398,7 @@
 ,
 										"__presetid" : "sound-engine-card-VIII",
 										"inputGain" : 										{
-											"value" : 0.512643678160919
+											"value" : 0.498850574712644
 										}
 ,
 										"inputX" : 										{

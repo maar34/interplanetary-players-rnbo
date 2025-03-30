@@ -25110,7 +25110,7 @@
 							"web-export" : 							{
 								"json-web-export" : 								{
 									"copy_dependencies" : 0,
-									"file_name" : "d00_c01_v2.1",
+									"file_name" : "sky-sounds-se-card-I",
 									"classname" : "rnbomatic",
 									"postexportcommand" : null,
 									"polyphony" : "disabled",
@@ -25137,18 +25137,6 @@
 							"parsestring" : ""
 						}
 ,
-						"inputGain" : 						{
-							"label" : "inputGain",
-							"isEnum" : 0,
-							"parsestring" : ""
-						}
-,
-						"inputX" : 						{
-							"label" : "inputX",
-							"isEnum" : 0,
-							"parsestring" : ""
-						}
-,
 						"sampler/playMin" : 						{
 							"label" : "playMin",
 							"isEnum" : 0,
@@ -25157,6 +25145,18 @@
 ,
 						"sampler/playMax" : 						{
 							"label" : "playMax",
+							"isEnum" : 0,
+							"parsestring" : ""
+						}
+,
+						"inputGain" : 						{
+							"label" : "inputGain",
+							"isEnum" : 0,
+							"parsestring" : ""
+						}
+,
+						"inputX" : 						{
+							"label" : "inputX",
 							"isEnum" : 0,
 							"parsestring" : ""
 						}

@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 2383.0, -453.0, 1284.0, 1056.0 ],
+		"rect" : [ 3620.0, -504.0, 1284.0, 1056.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -808,7 +808,7 @@
 						}
 ,
 						"classnamespace" : "rnbo",
-						"rect" : [ 2920.0, -993.0, 1852.0, 2039.0 ],
+						"rect" : [ 3996.0, 175.0, 1300.0, 792.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -19454,7 +19454,7 @@
 							"web-export" : 							{
 								"json-web-export" : 								{
 									"copy_dependencies" : 0,
-									"file_name" : "d00_c01_v2.1",
+									"file_name" : "sky-sounds-se-card-XI",
 									"classname" : "rnbomatic",
 									"postexportcommand" : null,
 									"polyphony" : "disabled",
@@ -19481,6 +19481,18 @@
 							"parsestring" : ""
 						}
 ,
+						"sampler/playMin" : 						{
+							"label" : "playMin",
+							"isEnum" : 0,
+							"parsestring" : ""
+						}
+,
+						"sampler/playMax" : 						{
+							"label" : "playMax",
+							"isEnum" : 0,
+							"parsestring" : ""
+						}
+,
 						"inputGain" : 						{
 							"label" : "inputGain",
 							"isEnum" : 0,
@@ -19503,18 +19515,6 @@
 							"label" : "mode",
 							"isEnum" : 1,
 							"parsestring" : "\"RM\" \"AM\""
-						}
-,
-						"sampler/playMin" : 						{
-							"label" : "playMin",
-							"isEnum" : 0,
-							"parsestring" : ""
-						}
-,
-						"sampler/playMax" : 						{
-							"label" : "playMax",
-							"isEnum" : 0,
-							"parsestring" : ""
 						}
 
 					}

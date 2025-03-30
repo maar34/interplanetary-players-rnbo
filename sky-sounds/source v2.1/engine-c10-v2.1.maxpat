@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 2080.0, -990.0, 1284.0, 1056.0 ],
+		"rect" : [ 4380.0, -902.0, 1284.0, 1056.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -276,13 +276,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-32",
-					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 431.0, 426.0, 50.0, 35.0 ],
-					"text" : "-0.020261",
+					"patching_rect" : [ 431.0, 426.0, 50.0, 22.0 ],
+					"text" : "0.",
 					"textcolor" : [ 0.0, 0.984313725490196, 0.231372549019608, 1.0 ]
 				}
 
@@ -826,7 +825,7 @@
 						}
 ,
 						"classnamespace" : "rnbo",
-						"rect" : [ 1954.0, -993.0, 1852.0, 2039.0 ],
+						"rect" : [ 3851.0, -805.0, 1339.0, 773.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -27637,7 +27636,7 @@
 							"web-export" : 							{
 								"json-web-export" : 								{
 									"copy_dependencies" : 0,
-									"file_name" : "d00_c01_v2.1",
+									"file_name" : "sky-sounds-se-card-X",
 									"classname" : "rnbomatic",
 									"postexportcommand" : null,
 									"polyphony" : "disabled",
@@ -27670,18 +27669,6 @@
 							"parsestring" : ""
 						}
 ,
-						"inputGain" : 						{
-							"label" : "inputGain",
-							"isEnum" : 0,
-							"parsestring" : ""
-						}
-,
-						"inputX" : 						{
-							"label" : "inputX",
-							"isEnum" : 0,
-							"parsestring" : ""
-						}
-,
 						"sampler/playMin" : 						{
 							"label" : "playMin",
 							"isEnum" : 0,
@@ -27690,6 +27677,18 @@
 ,
 						"sampler/playMax" : 						{
 							"label" : "playMax",
+							"isEnum" : 0,
+							"parsestring" : ""
+						}
+,
+						"inputGain" : 						{
+							"label" : "inputGain",
+							"isEnum" : 0,
+							"parsestring" : ""
+						}
+,
+						"inputX" : 						{
+							"label" : "inputX",
 							"isEnum" : 0,
 							"parsestring" : ""
 						}
@@ -27808,7 +27807,7 @@
 							}
 ,
 							"inputX" : 							{
-								"value" : 1.196078431372549
+								"value" : 1.0
 							}
 
 						}
@@ -27909,7 +27908,7 @@
 										}
 ,
 										"inputX" : 										{
-											"value" : 1.196078431372549
+											"value" : 1.0
 										}
 
 									}

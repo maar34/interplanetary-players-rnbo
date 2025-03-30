@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 2109.0, -816.0, 1284.0, 1056.0 ],
+		"rect" : [ 3977.0, 25.0, 1284.0, 1056.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -260,13 +260,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-32",
-					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 431.0, 426.0, 50.0, 35.0 ],
-					"text" : "0.006416",
+					"patching_rect" : [ 431.0, 426.0, 50.0, 22.0 ],
+					"text" : "0.",
 					"textcolor" : [ 0.0, 0.984313725490196, 0.231372549019608, 1.0 ]
 				}
 
@@ -804,7 +803,7 @@
 						}
 ,
 						"classnamespace" : "rnbo",
-						"rect" : [ 3335.0, -408.0, 1520.0, 959.0 ],
+						"rect" : [ 3585.0, -28.0, 1520.0, 959.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -889,7 +888,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 248.0, 68.0, 132.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 7,
+													"rnbo_serial" : 1,
 													"rnbo_uniqueid" : "scale_obj-12",
 													"text" : "scale -100. 100. 0. 255."
 												}
@@ -905,7 +904,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 786.0, 160.0, 100.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 1,
+													"rnbo_serial" : 2,
 													"rnbo_uniqueid" : "scale_obj-71",
 													"text" : "scale 127. 255. 0. 1. 2."
 												}
@@ -921,7 +920,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 654.833333333333485, 160.0, 103.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 2,
+													"rnbo_serial" : 3,
 													"rnbo_uniqueid" : "scale_obj-72",
 													"text" : "scale 0. 127. 1. 0. 2."
 												}
@@ -1129,7 +1128,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 350.0, 151.0, 100.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 3,
+													"rnbo_serial" : 4,
 													"rnbo_uniqueid" : "scale_obj-42",
 													"text" : "scale 127. 255. 0. 100. 2."
 												}
@@ -1144,7 +1143,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 248.0, 151.0, 127.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 4,
+													"rnbo_serial" : 5,
 													"rnbo_uniqueid" : "scale_obj-39",
 													"text" : "scale 0. 127. 100. 0. 2."
 												}
@@ -5993,7 +5992,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 505.0, 495.0, 134.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 5,
+													"rnbo_serial" : 6,
 													"rnbo_uniqueid" : "scale_obj-63",
 													"text" : "scale 0. 100. 0. 5. 1.325"
 												}
@@ -6058,7 +6057,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 505.0, 285.0, 120.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 6,
+													"rnbo_serial" : 7,
 													"rnbo_uniqueid" : "scale_obj-53",
 													"text" : "scale 0. 100. 0. 0.5 2."
 												}
@@ -8172,7 +8171,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 434.0, 100.0, 132.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 7,
+													"rnbo_serial" : 1,
 													"rnbo_uniqueid" : "scale_obj-45",
 													"text" : "scale -100. 100. 0. 255."
 												}
@@ -8217,7 +8216,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 206.0, 187.0, 128.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 1,
+													"rnbo_serial" : 2,
 													"rnbo_uniqueid" : "scale_obj-9",
 													"text" : "scale 127. 256. 0. 0.77"
 												}
@@ -8232,7 +8231,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 74.0, 187.0, 114.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 2,
+													"rnbo_serial" : 3,
 													"rnbo_uniqueid" : "scale_obj-8",
 													"text" : "scale 0. 127. 0.77 0."
 												}
@@ -8377,7 +8376,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 494.0, 336.0, 100.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 3,
+													"rnbo_serial" : 4,
 													"rnbo_uniqueid" : "scale_obj-37",
 													"text" : "scale 127. 255. 48. 88."
 												}
@@ -8392,7 +8391,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 338.0, 336.0, 114.0, 23.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 4,
+													"rnbo_serial" : 5,
 													"rnbo_uniqueid" : "scale_obj-36",
 													"text" : "scale 0. 127. 77. 48."
 												}
@@ -8836,7 +8835,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 659.0, 348.0, 101.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 5,
+													"rnbo_serial" : 6,
 													"rnbo_uniqueid" : "scale_obj-16",
 													"text" : "scale 127 255. 0. 0.66"
 												}
@@ -8852,7 +8851,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 617.0, 274.0, 100.0, 37.0 ],
 													"rnbo_classname" : "scale",
-													"rnbo_serial" : 6,
+													"rnbo_serial" : 7,
 													"rnbo_uniqueid" : "scale_obj-17",
 													"text" : "scale 0. 127. 0.66 0."
 												}
@@ -10112,7 +10111,7 @@
 										"samplerate" : 0.0
 									}
 ,
-									"rnbo_serial" : 2,
+									"rnbo_serial" : 1,
 									"rnbo_uniqueid" : "buffer~_obj-2",
 									"rnboinfo" : 									{
 										"needsInstanceInfo" : 1,
@@ -15672,7 +15671,7 @@
 							"web-export" : 							{
 								"json-web-export" : 								{
 									"copy_dependencies" : 0,
-									"file_name" : "d00_c01_v2.1",
+									"file_name" : "sky-sounds-se-card-IV",
 									"classname" : "rnbomatic",
 									"postexportcommand" : null,
 									"polyphony" : "disabled",
@@ -15790,11 +15789,11 @@
 							}
 ,
 							"inputZ" : 							{
-								"value" : 100.0
+								"value" : 0.0
 							}
 ,
 							"inputY" : 							{
-								"value" : -86.274509803921632
+								"value" : 0.0
 							}
 ,
 							"__presetid" : "sound-engine-card-IV",
@@ -15803,7 +15802,7 @@
 							}
 ,
 							"inputX" : 							{
-								"value" : -0.882352941176468
+								"value" : 1.0
 							}
 
 						}
@@ -15857,11 +15856,11 @@
 										}
 ,
 										"inputZ" : 										{
-											"value" : 100.0
+											"value" : 0.0
 										}
 ,
 										"inputY" : 										{
-											"value" : -86.274509803921632
+											"value" : 0.0
 										}
 ,
 										"__presetid" : "sound-engine-card-IV",
@@ -15870,7 +15869,7 @@
 										}
 ,
 										"inputX" : 										{
-											"value" : -0.882352941176468
+											"value" : 1.0
 										}
 
 									}
